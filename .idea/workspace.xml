@@ -2,25 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="39311643-491e-4513-ad38-10a25e16afb8" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/assets/img/team/figure1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/company.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/emprosfund.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/indexD.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/join.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/philosophy.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/products.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sma.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/strategies.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/about.html" beforeDir="false" afterPath="$PROJECT_DIR$/about.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog-single.html" beforeDir="false" afterPath="$PROJECT_DIR$/blog-single.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog.html" beforeDir="false" afterPath="$PROJECT_DIR$/blog.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/contact.html" beforeDir="false" afterPath="$PROJECT_DIR$/contact.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index-2.html" beforeDir="false" afterPath="$PROJECT_DIR$/index-2.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/portfolio-details.html" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio-details.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/portfolio.html" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/services.html" beforeDir="false" afterPath="$PROJECT_DIR$/services.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/team.html" beforeDir="false" afterPath="$PROJECT_DIR$/team.html" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -33,20 +16,20 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="124">
-              <caret line="63" lean-forward="true" selection-start-line="46" selection-start-column="12" selection-end-line="63" />
+            <state relative-caret-position="105">
+              <caret line="7" column="17" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/team.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="404">
-              <caret line="314" column="49" selection-start-line="314" selection-start-column="49" selection-end-line="314" selection-end-column="49" />
+            <state relative-caret-position="780">
+              <caret line="52" column="47" lean-forward="true" selection-start-line="52" selection-start-column="47" selection-end-line="52" selection-end-column="47" />
             </state>
           </provider>
         </entry>
@@ -66,6 +49,8 @@
       <find>welcome</find>
       <find>about us</find>
       <find>index</find>
+      <find>OUR</find>
+      <find>moderna</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -82,8 +67,8 @@
         <option value="$PROJECT_DIR$/join.html" />
         <option value="$PROJECT_DIR$/sma.html" />
         <option value="$PROJECT_DIR$/emprosfund.html" />
-        <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/team.html" />
+        <option value="$PROJECT_DIR$/index.html" />
       </list>
     </option>
   </component>
@@ -146,12 +131,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1601829849820</updated>
-      <workItem from="1601829853387" duration="4253000" />
+      <workItem from="1601829853387" duration="4625000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4253000" />
+    <option name="totallyTimeSpent" value="4625000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1280" height="737" extended-state="0" />
@@ -258,17 +243,17 @@
     <entry file="file://$PROJECT_DIR$/portfolio.html">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
+    <entry file="file://$PROJECT_DIR$/team.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="124">
-          <caret line="63" lean-forward="true" selection-start-line="46" selection-start-column="12" selection-end-line="63" />
+        <state relative-caret-position="780">
+          <caret line="52" column="47" lean-forward="true" selection-start-line="52" selection-start-column="47" selection-end-line="52" selection-end-column="47" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/team.html">
+    <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="404">
-          <caret line="314" column="49" selection-start-line="314" selection-start-column="49" selection-end-line="314" selection-end-column="49" />
+        <state relative-caret-position="105">
+          <caret line="7" column="17" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
         </state>
       </provider>
     </entry>
