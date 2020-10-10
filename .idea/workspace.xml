@@ -2,21 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="39311643-491e-4513-ad38-10a25e16afb8" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/assets/img/philosophy/philisophy2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/philosophy/philosophy1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/product/Product1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/product/Product2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/product/Product3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/emprosSystematic.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/invest.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mining.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/momentum.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/statisticalArbitrage.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/company.html" beforeDir="false" afterPath="$PROJECT_DIR$/company.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/emprosfund.html" beforeDir="false" afterPath="$PROJECT_DIR$/emprosFund.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/philosophy.html" beforeDir="false" afterPath="$PROJECT_DIR$/philosophy.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/emprosFund.html" beforeDir="false" afterPath="$PROJECT_DIR$/emprosFund.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/sma.html" beforeDir="false" afterPath="$PROJECT_DIR$/sma.html" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -48,11 +34,20 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/sma.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="389">
-              <caret line="195" column="12" selection-start-line="195" selection-start-column="12" selection-end-line="195" selection-end-column="12" />
+            <state relative-caret-position="219">
+              <caret line="210" column="41" lean-forward="true" selection-end-line="407" selection-end-column="7" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/emprosFund.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="251">
+              <caret line="190" column="80" selection-start-line="190" selection-start-column="80" selection-end-line="190" selection-end-column="80" />
             </state>
           </provider>
         </entry>
@@ -117,6 +112,7 @@
         <option value="$PROJECT_DIR$/company.html" />
         <option value="$PROJECT_DIR$/philosophy.html" />
         <option value="$PROJECT_DIR$/sma.html" />
+        <option value="$PROJECT_DIR$/emprosFund.html" />
       </list>
     </option>
   </component>
@@ -138,17 +134,6 @@
             <path>
               <item name="emprosweb.github.io" type="b2602c69:ProjectViewProjectNode" />
               <item name="emprosweb.github.io" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="emprosweb.github.io" type="b2602c69:ProjectViewProjectNode" />
-              <item name="emprosweb.github.io" type="462c0819:PsiDirectoryNode" />
-              <item name="assets" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="emprosweb.github.io" type="b2602c69:ProjectViewProjectNode" />
-              <item name="emprosweb.github.io" type="462c0819:PsiDirectoryNode" />
-              <item name="assets" type="462c0819:PsiDirectoryNode" />
-              <item name="img" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -193,12 +178,12 @@
       <option name="presentableId" value="Default" />
       <updated>1601829849820</updated>
       <workItem from="1601829853387" duration="5106000" />
-      <workItem from="1602350995448" duration="5161000" />
+      <workItem from="1602350995448" duration="5567000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="10267000" />
+    <option name="totallyTimeSpent" value="10673000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1280" height="738" extended-state="6" />
@@ -269,13 +254,6 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/join.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" column="16" selection-start-line="4" selection-start-column="11" selection-end-line="4" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/emprosFund.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="60">
           <caret line="4" column="16" selection-start-line="4" selection-start-column="11" selection-end-line="4" selection-end-column="16" />
@@ -376,8 +354,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/sma.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="389">
-          <caret line="195" column="12" selection-start-line="195" selection-start-column="12" selection-end-line="195" selection-end-column="12" />
+        <state relative-caret-position="219">
+          <caret line="210" column="41" lean-forward="true" selection-end-line="407" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/emprosFund.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="251">
+          <caret line="190" column="80" selection-start-line="190" selection-start-column="80" selection-end-line="190" selection-end-column="80" />
         </state>
       </provider>
     </entry>
