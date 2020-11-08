@@ -8,6 +8,8 @@
 /*--------------------------------------------------------------
 # General
 --------------------------------------------------------------*/
+
+
 body {
   font-family: "Open Sans", sans-serif;
   color: #444;
@@ -24,6 +26,31 @@ a:hover {
 
 h1, h2, h3, h4, h5, h6, .font-primary {
   font-family: "Roboto", sans-serif;
+}
+
+
+.pcenter {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: auto;
+  width: 50%;
+  position:absolute;
+  top:25%;
+  left:25%;
+}
+
+.tf {
+  /*background-color: black;*/
+  padding: 5px;
+  margin-top: 50px;
+  margin-bottom: 50px;
+
+
+}
+.tagline{
+  font-size: 30px;
+  text-align: center;
 }
 
 /*--------------------------------------------------------------
