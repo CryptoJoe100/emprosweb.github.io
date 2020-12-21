@@ -51,7 +51,7 @@ particlesJS('particles-js',
         }
       },
       "size": {
-        "value": 5,
+        "value": 1,
         "random": true,
         "anim": {
           "enable": false,
@@ -124,7 +124,9 @@ particlesJS('particles-js',
       "hide_card": false,
       "background_color": "#b61924",
       "background_image": "",
-      "background_position": "50% 50%",
+      // "background_position": "50% 50%",
+      "background_position": "fixed",
+      "z-index": "-999",
       "background_repeat": "no-repeat",
       "background_size": "cover"
     }

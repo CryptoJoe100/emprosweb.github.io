@@ -40,6 +40,31 @@ h1, h2, h3, h4, h5, h6, .font-primary {
   left:25%;
 }
 
+.nl{
+  font-size: 31px;
+  text-align: center;
+  margin:auto;
+  width: 50%;
+  /*border: 3px solid green;*/
+  padding: 40px;
+}
+
+
+.jDescription{
+    font-size: 18px;
+    margin-left: 20%;
+    margin-right: 20%;
+}
+
+hr {
+    width:20%;
+    margin:0 auto;
+}
+
+.btn-danger{
+  margin-top: 10px;
+}
+
 .tf {
   /*background-color: black;*/
   padding: 5px;
